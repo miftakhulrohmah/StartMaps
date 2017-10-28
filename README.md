@@ -1,13 +1,13 @@
 # StartMaps
 # Screenshot Aplikasi<br>
 # Map View
-![Screenshot](https://github.com/miftakhulrohmah/SeeMe/blob/master/3.jpg)<br>
+![Screenshot](https://github.com/miftakhulrohmah/StartMaps/blob/master/3.jpg)<br>
 
 # Satelite View
-![Screenshot](https://github.com/miftakhulrohmah/SeeMe/blob/master/2.jpg)<br>
+![Screenshot](https://github.com/miftakhulrohmah/StartMaps/blob/master/2.jpg)<br>
 
 #Hybrid View
-![Screenshot](https://github.com/miftakhulrohmah/SeeMe/blob/master/1.jpg)<br>
+![Screenshot](https://github.com/miftakhulrohmah/StartMaps/blob/master/1.jpg)<br>
 
  >Identitas <br>
 Nama    : Miftakhul Rohmah<br>
