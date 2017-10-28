@@ -16,9 +16,9 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-                <meta-data
-                    android:name="com.google.android.maps.v2.API_KEY"
-                    android:value="AIzaSyCmkm6YxAG6ScZYa7FssYtohxM4dY_vqCY" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBw9SKWki_ITNOrs0UmNIcN7YVstpi9CEU" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
