@@ -6,7 +6,7 @@
 # Satelite View
 ![Screenshot](https://github.com/miftakhulrohmah/StartMaps/blob/master/2.jpg)<br>
 
-#Hybrid View
+# Hybrid View
 ![Screenshot](https://github.com/miftakhulrohmah/StartMaps/blob/master/1.jpg)<br>
 
  >Identitas <br>
